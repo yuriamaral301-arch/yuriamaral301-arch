@@ -1,16 +1,13 @@
-<div align="center">
-  <img src="https://i.postimg.cc/L8Pb1GdZ/IMG-4320.jpg" width="120" style="border-radius: 50%" />
-  <h1>Olá, eu sou o Yuri Amaral 👋</h1>
-  <h3>Fundador @YAdev | Desenvolvedor de Soluções com IA</h3>
-</div>
+# Olá, eu sou o Yuri Amaral 👋
+### Fundador @YAdev | Desenvolvedor de Soluções com IA
 
 ---
 
 ### 👨‍💻 Sobre mim
-- 🚀 Criando soluções desde **2024** na **YAdev - AI Solutions**
+- 🚀 Criando soluções desde 2025 na **YAdev - AI Solutions**
 - 🌱 Atualmente focado em **Python, RAG, LLMs e Agentes de IA**
 - 🎯 Objetivo: Transformar negócios locais com automação + IA Generativa
-- 🎓 ADS na UNINTER | 1º semestre e já construindo produtos com IA
+- 🎓 ADS na UNINTER
 
 ### 🛠️ Tech Stack
 <p>
@@ -26,7 +23,8 @@
 ### 📫 Onde me achar
 <p>
   <a href="mailto:yuriamaral301@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yuri-amaral/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yramaralDev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/yramaral.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 <div align="center">
